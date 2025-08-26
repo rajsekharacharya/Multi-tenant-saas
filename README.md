@@ -178,7 +178,7 @@ Apache 2.0 - See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 - **Author**: Rajsekhar Acharya
-- **Email**: rajsekhar.acharya@example.com (placeholder)
-- **GitHub**: [https://github.com/yourusername/multitenantsaas](https://github.com/yourusername/multitenantsaas)
+- **Email**: rajsekhar.acharya@gmail.com (placeholder)
+- **GitHub**: [https://github.com/rajsekharacharya/Multi-tenant-saas](https://github.com/rajsekharacharya/Multi-tenant-saas)
 
 ⭐ Star the repo if you find it useful!
