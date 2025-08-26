@@ -72,8 +72,7 @@ multitenantsaas/
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/multitenantsaas.git
-   cd multitenantsaas
+   git clone https://github.com/rajsekharacharya/Multi-tenant-saas.git
    ```
 
 2. **Configure Database**:
