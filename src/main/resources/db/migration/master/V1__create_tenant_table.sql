@@ -1,0 +1,8 @@
+CREATE TABLE tenant (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    subdomain VARCHAR(255) UNIQUE NOT NULL,
+    db_url VARCHAR(255) NOT NULL,
+    db_username VARCHAR(255) NOT NULL,
+    db_password VARCHAR(255) NOT NULL
+);
